@@ -1,0 +1,22 @@
+{
+  "name": "bulk-export",
+  "version": "0.0.0",
+  "description": "Requires files in a directory and returns the results as a keyed object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/bulk-export.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/bulk-export/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/bulk-export",
+  "devDependencies": {
+    "grape": "^1.0.2"
+  }
+}
