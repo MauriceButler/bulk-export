@@ -1,6 +1,6 @@
 {
   "name": "bulk-export",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Requires files in a directory and returns the results as a keyed object",
   "main": "index.js",
   "scripts": {
